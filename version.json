@@ -1,6 +1,6 @@
 {
   "release": "pre-alpha-playtest",
-  "sourceCommit": "1e6eea2cb3994c1db13e1808d740996641b09b02",
-  "buildBase": "/diplomacy-parley-playtest/",
-  "builtAt": "2026-07-24T01:44:49Z"
+  "sourceCommit": "de853f5273c4f01e8c4dad034c35d32d4b5d8123",
+  "sourceCommittedAt": "2026-07-24T18:59:44-04:00",
+  "buildBase": "/diplomacy-parley-playtest/"
 }
