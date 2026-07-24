@@ -1,0 +1,4 @@
+Common Ground pre-alpha playtest
+Private source commit: 1e6eea2cb3994c1db13e1808d740996641b09b02
+Build base: /diplomacy-parley-playtest/
+Built at: 2026-07-24T01:44:49Z
