@@ -4,7 +4,7 @@ This repository contains only the compiled browser artifact for the Common Groun
 
 - Play: https://spacepig-enterprises.github.io/diplomacy-parley-playtest/
 - Release: pre-alpha playtest
-- Private source commit: `de853f5273c4f01e8c4dad034c35d32d4b5d8123`
+- Private source commit: `ffbf59922b16813073bd255c1dadcb5cb7c786dc`
 - Build base: `/diplomacy-parley-playtest/`
 - Publication model: automatic after source tests, production build, and dependency audit pass
 
